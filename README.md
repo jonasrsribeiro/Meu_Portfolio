@@ -25,10 +25,21 @@
 ### NineTech - Gerenciamento de Times e Projetos Complexos (WBS)
 - 2023.2
 - Desenvolvido para o Projeto Integrador 3 da FATEC, com a SIATT como cliente. Utilizando as metodologias Scrum, atuei como Product Owner e Development Team. Tecnologias: Javascript, Java, MySQL, Docker.
+- [GIT](https://www.google.com)
+- Tecnologias Utilizadas
+Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+- Contribuições Pessoais
+Apresente suas contribuições no projeto. 
+
+- Hard Skills
+Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível alcançado. Exemplo: CSS - Sei fazer com autonomia
+
+- Soft Skills
+Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. 
 
 ### OctAgro - Planejamento de Recursos Empresariais (ERP) para Estoque
 - 2023.1
-- Desenvolvido para o Projeto Integrador 2 da FATEC, com a Jala Software como cliente. Utilizando a metodologia Scrum, atuei como membro do Development Team. Tecnologias: Javascript, Express, React, Node, MySQL.
+- Desenvolvido para o Projeto Integrador 2 da FATEC, com a Jaia Software como cliente. Utilizando a metodologia Scrum, atuei como membro do Development Team. Tecnologias: Javascript, Express, React, Node, MySQL.
 
 ### Impactech - Internet Banking
 - 2022.2
