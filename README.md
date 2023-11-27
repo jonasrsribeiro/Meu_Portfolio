@@ -22,7 +22,7 @@
 
 <h2>Meus Projetos</h2>
 
-### Projeto Integrado Gerenciamento de Times e Projetos Complexos (WBS)
+### Projeto Integrado - Gerenciamento de Times e Projetos Complexos (WBS)
 - Desenvolvido para o Projeto Integrador 3 da FATEC, com a SIATT como cliente. Utilizando as metodologias Scrum e Kanban, atuei como Scrum Master e Development Team. Tecnologias: Javascript, Java, MySQL, Docker.
 
 ### Projeto Integrado - Planejamento de Recursos Empresariais (ERP) para Estoque
