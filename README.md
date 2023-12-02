@@ -24,6 +24,10 @@
 
 ## :bookmark_tabs: NineTech - Gerenciamento de Times e Projetos Complexos (WBS)
 
+<p align="center">
+      <img src="./img/logo 9 tech.png" alt="logo 9tech" width="150">
+<hr>
+
 - 2023.2
 - [Acesse aqui o repositório NineTech](https://github.com/Nine-Tech/nine-tech-documentation)
 - Desenvolvido para o Projeto Integrador 3 da FATEC, com a [SIATT](https://www.siatt.com.br/siatt/) como cliente.  Utilizando as metodologias Scrum, atuei como Product Owner e Development Team.
