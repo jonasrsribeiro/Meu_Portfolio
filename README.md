@@ -38,6 +38,8 @@ Nossa parceira, a empresa Siatt, enfrenta o desafio de gerenciar eficazmente seu
 
 > _Um software especializado que permita importar dados de projetos em andamento a partir de arquivos Excel, para facilitar a migração de dados e a transição para um novo sistema de gerenciamento. A partir disso, o Engenheiro Chefe pode atribuir pacotes de trabalho e observar cada mudança do projeto e seus pacotes, subpacotes e tarefas. Melhorando a organização, o acompanhamento em tempo real e a colaboração entre as diferentes etapas do projeto. Já os Líderes de Projeto, têm acesso individual apenas aos seus Pacotes, podem gerenciá-los e acompanhar o andamento. De forma intuitiva, amigável e de usabilidade alta._
 
+![./gif9.gif](./gif9.gif)
+
 ## :bookmark_tabs: Tecnologias Utilizadas
 
 - JavaScript:
