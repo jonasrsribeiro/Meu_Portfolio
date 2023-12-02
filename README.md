@@ -25,7 +25,7 @@
 ## :bookmark_tabs: NineTech - Gerenciamento de Times e Projetos Complexos (WBS)
 
 <p align="center">
-      <img src="./img/logo 9 tech.png" alt="logo 9tech" width="150">
+      <img src="logo 9 tech.png" alt="logo 9tech" width="150">
 <hr>
 
 - 2023.2
