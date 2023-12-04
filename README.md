@@ -105,7 +105,7 @@ Para a terceira e quarta Sprints, devido à saída do Product Owner assumi esse 
       <img src="logo octagro.png" alt="logo octagro" width="150">
 <hr>
 
-- 2023.2
+- 2023.1
 - [Acesse aqui o repositório OctAgro](https://github.com/OctAgro/OctAgro-API)
 - Desenvolvido para o Projeto Integrador 2 da FATEC, com a [Jaia Software](https://jaia.software/) como cliente. Utilizando as metodologias Scrum, atuei como Development Team.
 
