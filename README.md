@@ -102,7 +102,7 @@ Para a terceira e quarta Sprints, devido à saída do Product Owner assumi esse 
 ## :bookmark_tabs: OctAgro - Sistema de Inspeção de Entrada para Controle de Recebimento de Grãos
 
 <p align="center">
-      <img src="logo octagro.png" alt="logo octagro" width="150">
+      <img src="logo Octagro.png" alt="logo octagro" width="150">
 <hr>
 
 - 2023.1
@@ -165,6 +165,69 @@ Pela primeira vez, desenvolvi uma aplicação fullstack. Nesse projeto, busquei 
 - Autonomia: Quando me atribui tarefas, tento fazê-las e concluí-las por conta própria, pedindo ajuda após alguns dias procurando a solução (7/10).
 - Comunicação: A comunição nesse projeto foi algo muito positiva, encontrei um grupo muito bom e produtivo. Tivemos muitas conversas na pré Sprint que nos fez entender o produto muito bem. Saíram muitos integrantes durante as sprints, mas conseguimos conduzir o projeto até o final, trabalhando e estudando para suprir as necessidades tecnológicas e de pessoas que enfrentamos (9/10).
 - Entrega e Resultados: Tivemos que enfrentar muitas horas programando para entregar os resultados, em todas as sprints tivemos que programar por horas extensas nos finais de semana, devido à saída inexperada de membros e falta de conhecimento técnico nas novas tecnologias, mas principalmente pois prometemos features demais. (4/10).
+
+## :bookmark_tabs: Impactech - Internet Banking
+<p align="center">
+      <img src="logo Impactech.png" alt="logo impactech" width="150">
+<hr>
+
+- 2022.2
+- [Acesse aqui o repositório Impactech](https://github.com/impactechAPI/-API-1-Internet-Banking)
+- Desenvolvido para o Projeto Integrador 1 da FATEC, com a [Fatec São José dos Campos](https://fatecsjc-prd.azurewebsites.net/) como cliente. Utilizando as metodologias Scrum, atuei como Development Team.
+
+Nossa parceira, a Instuição Fatec, nos proporciou como objetivo a criação de um sistema de Internet Banking com algumas funcionalidades básicas de todo banco, online ou físico, como: abertura de contas em agências, realizar depósitos, saques, transferências, visualizar extrato de transações, atualização de dados cadastrais, crédito especial para clientes e solicitação de fechamento de contas.
+
+### :warning: Dificuldades
+
+> _Com a crescente digitalização dos serviços bancários, a ausência de um sistema eficaz para Internet Banking pode resultar em experiências inadequadas para os usuários. Processos que tradicionalmente eram realizados presencialmente, como transferências, consultas de saldo e pagamentos, tornam-se mais complexos sem uma plataforma digital integrada. A falta de critérios claros para a segurança, acesso e funcionalidades compromete a eficiência operacional e a acessibilidade para os clientes._
+
+### :white_check_mark: Proposta de Solução
+
+> _Propomos o desenvolvimento de um Sistema de Internet Banking personalizado, com foco na simplificação e acessibilidade. Essa solução permitirá uma transição suave para operações bancárias digitais, melhorando a organização, a segurança e a colaboração entre as diferentes transações. O software possibilitará o cadastro de usuários com perfis distintos, atribuindo responsabilidades específicas para funcionalidades como transferências, pagamentos, consultas e atualizações de dados._
+
+![./gifImpactech.gif](./gifImpactech.gif)
+
+## :bookmark_tabs: Tecnologias Utilizadas
+
+- Python:
+> _Python é uma linguagem de programação de alto nível, conhecida por sua sintaxe clara e legibilidade. Ampla e versátil, ela é utilizada em diversos contextos, desde desenvolvimento web até análise de dados e inteligência artificial. Com uma comunidade ativa e vasta biblioteca padrão, Python torna-se uma escolha poderosa para desenvolvedores.
+> _Essa linguagem destacou-se pela facilidade de aprendizado e flexibilidade, proporcionando uma experiência de desenvolvimento ágil e um ótimo primeiro contato para o desenvolvimento uma aplicação complexa._
+
+- Flask:
+> _Flask é um framework web leve e modular para Python. Projetado para ser simples e fácil de estender, ele oferece as ferramentas necessárias para criar aplicações web eficientes. Flask segue a filosofia de "faça o simples, mas faça bem feito", proporcionando liberdade aos desenvolvedores para escolher as ferramentas e bibliotecas que desejam utilizar.
+> _Essa estrutura foi ideal para o desenvolvimento rápido de aplicações web, permitindo a criação de rotas, manipulação de requisições e respostas de forma simples._
+
+- Jinja2:
+> _Jinja2 é um mecanismo de template para Python, amplamente utilizado em frameworks web como o Flask. Ele permite a criação de templates dinâmicos, possibilitando a geração de conteúdo dinâmico em páginas web. Com a sintaxe intuitiva do Jinja2, os desenvolvedores podem incorporar lógica e dados nas páginas de forma eficiente.
+> _Essa ferramenta foi fundamental para a criação de páginas dinâmicas em aplicações web. Com o Jinja2, foi possível incorporar variáveis, estruturas de controle e inclusões de templates, pcomo tabelas, variáveis dinâmicas e barras de pesquisa._ 
+
+- HTML:
+> _HTML é uma linguagem de marcação utilizada para estruturar o conteúdo em uma página web. Com tags semânticas, o HTML permite definir a hierarquia e o significado dos elementos na página, contribuindo para uma experiência de usuário acessível e bem organizada.
+> _Essa linguagem foi fundamental no desenvolvimento web, proporcionando a base estrutural para a apresentação de informações. Ao usar HTML, os desenvolvedores conseguiram criar páginas web interativas e dinâmicas, estabelecendo a fundação para a criação de interfaces intuitivas._
+
+- CSS:
+> _CSS (Cascading Style Sheets) é uma linguagem de estilo que complementa o HTML. Ela permite a estilização e o design das páginas web, controlando a apresentação visual dos elementos. Com o CSS, os desenvolvedores podem personalizar cores, fontes, layouts e outros aspectos visuais.
+Essa linguagem desempenhou um papel crucial no desenvolvimento frontend, possibilitando a criação de páginas atraentes e responsivas. Também proporcionou uma organização eficiente do código e facilita a manutenção e atualização do design._
+
+- MySQL:
+
+> _MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é amplamente utilizado para armazenar e recuperar dados em aplicativos, oferecendo desempenho confiável e suporte para consultas complexas._
+> _Escolha comum e segura, devido à utilização anterior por parte da equipe, para armazenar dados de maneira estruturada. É uma solução eficaz para organizar grandes conjuntos de informações, sendo especialmente valioso em aplicações web._
+
+### :white_check_mark: Contribuições Pessoais
+Pela primeira vez, desenvolvi uma aplicação complexa como essa. Atuei apenas como backend. Foi um desafio usar programação e abstrair ideias do mundo real para o código. Já havia tido contado anterior com C++ e C#, isso me ajudou a ter menos dificuldade na volta. Pude programar boa parte do backend e ajudar parte do time que teve seu primeiro contato.
+
+## :bookmark_tabs: Hard Skills
+- Python: Primeiro contato com esta linguagem, pude aprender como a linguagem funcionava, principalmente novos conceitos como funções. Porém o código ficou muito grande, desorganizado e monolítico (3/10).
+- Flask: Primeiro contato com CRUD e desenvolvimento WEb, foi possível entender bem os conceitos básicos e essenciais (7/10).
+- Jinja2: Também primeiro contato com template e programação junto do HTML. Deu pra entender bem e aplicar com sucesso (6/10).
+- MySQL: Através do Flask, usamos MySQL puro, manipulando diretamente com queries. Relações foram bem aplicadas. A modelagem deixou a desejar, mas como primeiro contato foi suficiente (5/10).
+
+## :bookmark_tabs: Soft Skills
+- Proatividade: Tentei sempre sem o mais proativo possível na equipe, programando e auxiliando o time (9/10).
+- Autonomia: Quando me atribui tarefas, peguei as mais difíceis que pude, tentei fazê-las e concluí-las por conta própria (9/10).
+- Comunicação: A comunição nesse projeto foi algo difícil. O primeiro contato com a metodologia Scrum fez com que os papeis não fossem bem estabelecidos, a euipe era muito inexperiente com as tecnologias e conceitos da programação, muitos membros do time saíram no meio do projeto (4/10).
+- Entrega e Resultados: Tivemos que enfrentar muitas horas programando para entregar os resultados, em todas as sprints tivemos que programar por horas extensas nos finais de semana, devido à saída inexperada de membros e falta de conhecimento técnico nas novas tecnologias. Porém, com todas as dificuldades e obstáculos entregamos um produto muito bonito e funcional (5/10).
 
 </html>
 
