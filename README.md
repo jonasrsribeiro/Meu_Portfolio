@@ -48,40 +48,42 @@ Nossa parceira, a empresa Siatt, enfrenta o desafio de gerenciar eficazmente seu
 ## :bookmark_tabs: Tecnologias Utilizadas
 
 - JavaScript:
-
+<details>
 > _JavaScript é uma linguagem de programação de alto nível, amplamente utilizada para desenvolvimento web. Ela permite a criação de interações dinâmicas em páginas web e é suportada pelos navegadores modernos._
 > _O JavaScript foi muito importante para o desenvolvimento do front-end, principalmente por possibilitar chamar a API em Java, através de requisições assíncronas, de forma atualizar dinamicamente, por meio de interação do Usuário com o DOM, páginas em HTML e CSS_
+</details>
 
 - React:
-
-> _React é uma biblioteca de JavaScript para construção de interfaces de usuário (UI). Desenvolvida pelo Facebook, ela permite a criação de componentes reutilizáveis que atualizam automaticamente quando os dados mudam. React é amplamente usado no desenvolvimento de aplicações web interativas e single-page._
+<details>
+> _React é uma biblioteca de JavaScript para construção de interfaces de usuário (UI). Desenvolvida pelo Facebook, ela permite a criação de componentes reutilizáveis que atualizam automaticamente quando os dados mudam. React é amplamente usado no desenvolvimento de aplicações web interativas e single-page.
 > _Essa biblioteca desempenhou um papel vital no avanço do front-end, permitindo uma abordagem  fluida, atualizando partes específicas da página sem recarregar tudo. Através dele foi possível gerenciar o estado da aplicação de maneira mais simples, proporcionando uma experiência de usuário mais responsiva.
+</details>
 
 - Java:
-
-> _Java é uma linguagem de programação de propósito geral conhecida por sua portabilidade, segurança e robustez. É frequentemente usada para desenvolvimento de aplicativos empresariais e sistemas distribuídos._
-> _Desempenhou um papel fundamental no desenvolvimento back-end, fornecendo uma base sólida para a construção de sistemas distribuídos e aplicações escaláveis. Auxiliou o aprendizado em Programação Orientada a Objetos._
-
+<details>
+  > _Java é uma linguagem de programação de propósito geral conhecida por sua portabilidade, segurança e robustez. É frequentemente usada para desenvolvimento de aplicativos empresariais e sistemas distribuídos._
+  > _Desempenhou um papel fundamental no desenvolvimento back-end, fornecendo uma base sólida para a construção de sistemas distribuídos e aplicações escaláveis. Auxiliou o aprendizado em Programação Orientada a Objetos._
+</details>
 - Spring Boot:
-
+<details>
 > _Spring Boot é um framework em Java que simplifica o desenvolvimento de aplicativos baseados em Spring. Ele facilita a criação de aplicativos Java robustos, oferecendo configurações padrão e uma estrutura simplificada._
 > _Reduziu a carga de trabalho dos desenvolvedores, permitindo maior concentração na lógica de negócios._
-
+</details>
 - Security e JJWT:
-
+<details>
 > _"Security" geralmente refere-se a práticas e bibliotecas para garantir a segurança de um sistema. JJWT (JSON Web Token) é uma especificação para criar tokens de acesso baseados em JSON, frequentemente usados para autenticação e autorização em aplicativos web._
 > _Com o Spring Security e o JJWT, a proteção de APIs e a implementação de autenticação e autorização ficaram mais simples e eficazes._
-
+</details>
 - MySQL:
-
+<details>
 > _MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é amplamente utilizado para armazenar e recuperar dados em aplicativos, oferecendo desempenho confiável e suporte para consultas complexas._
 > _Escolha comum e segura, devido à utilização anterior por parte da equipe, para armazenar dados de maneira estruturada. É uma solução eficaz para organizar grandes conjuntos de informações, sendo especialmente valioso em aplicações web._
-
+</details>
 - Docker:
-
+<details>
 > _Docker é uma plataforma de contêinerização que permite empacotar, distribuir e executar aplicativos em contêineres. Contêineres são unidades isoladas que encapsulam todos os requisitos de software e suas dependências, garantindo consistência em diferentes ambientes._
 > _Primeiro contato da equipe com contêinerização, utilizamos basicamente para o MySQL para manter consistência entre o time, durante o desenvolvimento da aplicação._
-
+</details>
 ### :white_check_mark: Contribuições Pessoais
 Durante a primeira e segunda Sprints desempenhei um papel de Scrum Master, enquanto também desenvolvia como Back-end. Minhas principais contribuições como SM foram a criação de um Jira automatizado para estreitar o começo de uma entrega contínua, além de facilitar a versionamento de ramificações e branches utilizando o Gitflow. Como desenvolvedor contribui com o CRUD de criação da estrutura WBS por meio do upload de dados contidos em um arquivo Excel, além da conexão via Axios para alimentação do Cliente via API.
 Para a terceira e quarta Sprints, devido à saída do Product Owner assumi esse cargo, continuando a desenvolver junto ao Dev. Team. Minhas maiores contribuições como PO foram reuniões via meeting com o cliente, tentando entender melhor como funcionavam os arquivos Excel, para tentar remediar suas dores e deixar mais claro ao time a visão do Produto. Como desenvolvedor participei de refatoração do Back-end para uma nvoa estrutura WBS e desenvolvi no Front-end usando Chart.JS para criação de Gráficos de Curva S.
@@ -124,34 +126,35 @@ Nossa parceira, a empresa Jaia Software, encara o desafio de aprimorar a gestão
 ## :bookmark_tabs: Tecnologias Utilizadas
 
 - JavaScript:
-
+<details>
 > _JavaScript é uma linguagem de programação de alto nível, amplamente utilizada para desenvolvimento web. Ela permite a criação de interações dinâmicas em páginas web e é suportada pelos navegadores modernos._
 > _O JavaScript foi muito importante para o desenvolvimento do front-end, principalmente por possibilitar chamar a API em Java, através de requisições assíncronas, de forma atualizar dinamicamente, por meio de interação do Usuário com o DOM, páginas em HTML e CSS_
-
+</details>
 - React:
-
+<details>
 > _React é uma biblioteca de JavaScript para construção de interfaces de usuário (UI). Desenvolvida pelo Facebook, ela permite a criação de componentes reutilizáveis que atualizam automaticamente quando os dados mudam. React é amplamente usado no desenvolvimento de aplicações web interativas e single-page._
 > _Essa biblioteca desempenhou um papel vital no avanço do front-end, permitindo uma abordagem  fluida, atualizando partes específicas da página sem recarregar tudo. Através dele foi possível gerenciar o estado da aplicação de maneira mais simples, proporcionando uma experiência de usuário mais responsiva._
-
+</details>
 - Node.js:
-
+<details>
 > _Node.js é um ambiente de execução de código JavaScript do lado do servidor. Ele permite que desenvolvedores usem JavaScript para escrever scripts do lado do servidor, possibilitando a construção de aplicações escaláveis e de alta performance. Com o Node.js, é possível criar servidores web e APIs de forma eficiente._
 > _Essa tecnologia foi fundamental para o desenvolvimento backend, permitindo a execução de código JavaScript fora do navegador. Sua natureza assíncrona é particularmente valiosa para lidar com operações de I/O de forma eficiente, resultando em aplicações mais rápidas._
-
+</details>
 - Express.js:
-
+<details>
 > _Express.js é um framework para Node.js que simplifica o desenvolvimento de aplicações web e APIs. Ele fornece uma série de recursos e ferramentas que facilitam a criação de rotas, gerenciamento de requisições e respostas, e integração com middlewares._
 > _Essa estrutura foi crucial para o desenvolvimento rápido e eficiente de aplicações backend. Foi possível criar rotas de forma simples, gerenciar o ciclo de vida das requisições e respostas, e integrar middleware para funcionalidades adicionais. Isso resulta em código mais organizado e fácil de manter._
-
+</details>
 - Sequelize:
+<details>
 > _Sequelize é um ORM (Object-Relational Mapping) para Node.js, que suporta diversos bancos de dados relacionais, incluindo MySQL. Ele simplifica a interação com o banco de dados, permitindo que desenvolvedores usem JavaScript para realizar operações de CRUD de maneira mais intuitiva e eficiente._
 > _Essa biblioteca foi essencial para facilitar a comunicação entre a aplicação Node.js e o MySQL, além de permitir um pouco de Programação Orientada a Objetos para a aplicação. Com o Sequelize, foi possível definir modelos de dados em JavaScript que são mapeados para tabelas no banco de dados, tornando as operações de banco de dados mais orientadas a objetos e simplificando o desenvolvimento._
-
+</details>
 - MySQL:
-
+<details>
 > _MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é amplamente utilizado para armazenar e recuperar dados em aplicativos, oferecendo desempenho confiável e suporte para consultas complexas._
 > _Escolha comum e segura, devido à utilização anterior por parte da equipe, para armazenar dados de maneira estruturada. É uma solução eficaz para organizar grandes conjuntos de informações, sendo especialmente valioso em aplicações web._
-
+</details>
 ### :white_check_mark: Contribuições Pessoais
 Pela primeira vez, desenvolvi uma aplicação fullstack. Nesse projeto, busquei implementar uma arquitetura MERN, criando uma aplicação web que integrasse todas as tecnologias mencionadas. Inicialmente, minha intenção era focar apenas no backend; portanto, estruturei essa parte do projeto e busquei aplicar novos conhecimentos que pesquisei durante as férias, como a Arquitetura Model-View-Controller e ORM. Isso se deu porque a aplicação anterior estava muito rígida e monolítica. O aprendizado rápido e a flexibilidade proporcionados pelo stack MERN me motivaram a tentar aprender também o desenvolvimento frontend, algo que inicialmente não estava nos meus planos. Ao estudar React, percebi que poderia ser uma experiência interessante. Assim, em todas as sprints, atuei como fullstack, concentrando-me especialmente no mapeamento dos dados da API para o frontend, utilizando Axios, e assimilando conceitos como useState, useEffect, Hook e Context.
 
@@ -190,30 +193,38 @@ Nossa parceira, a Instuição Fatec, nos proporciou como objetivo a criação de
 ## :bookmark_tabs: Tecnologias Utilizadas
 
 - Python:
+<details>
 > _Python é uma linguagem de programação de alto nível, conhecida por sua sintaxe clara e legibilidade. Ampla e versátil, ela é utilizada em diversos contextos, desde desenvolvimento web até análise de dados e inteligência artificial. Com uma comunidade ativa e vasta biblioteca padrão, Python torna-se uma escolha poderosa para desenvolvedores.
 > _Essa linguagem destacou-se pela facilidade de aprendizado e flexibilidade, proporcionando uma experiência de desenvolvimento ágil e um ótimo primeiro contato para o desenvolvimento uma aplicação complexa._
+</details>
 
 - Flask:
+<details>
 > _Flask é um framework web leve e modular para Python. Projetado para ser simples e fácil de estender, ele oferece as ferramentas necessárias para criar aplicações web eficientes. Flask segue a filosofia de "faça o simples, mas faça bem feito", proporcionando liberdade aos desenvolvedores para escolher as ferramentas e bibliotecas que desejam utilizar.
 > _Essa estrutura foi ideal para o desenvolvimento rápido de aplicações web, permitindo a criação de rotas, manipulação de requisições e respostas de forma simples._
+</details>
 
 - Jinja2:
+<details>
 > _Jinja2 é um mecanismo de template para Python, amplamente utilizado em frameworks web como o Flask. Ele permite a criação de templates dinâmicos, possibilitando a geração de conteúdo dinâmico em páginas web. Com a sintaxe intuitiva do Jinja2, os desenvolvedores podem incorporar lógica e dados nas páginas de forma eficiente.
 > _Essa ferramenta foi fundamental para a criação de páginas dinâmicas em aplicações web. Com o Jinja2, foi possível incorporar variáveis, estruturas de controle e inclusões de templates, pcomo tabelas, variáveis dinâmicas e barras de pesquisa._ 
-
+</details>
 - HTML:
+<details>
 > _HTML é uma linguagem de marcação utilizada para estruturar o conteúdo em uma página web. Com tags semânticas, o HTML permite definir a hierarquia e o significado dos elementos na página, contribuindo para uma experiência de usuário acessível e bem organizada.
 > _Essa linguagem foi fundamental no desenvolvimento web, proporcionando a base estrutural para a apresentação de informações. Ao usar HTML, os desenvolvedores conseguiram criar páginas web interativas e dinâmicas, estabelecendo a fundação para a criação de interfaces intuitivas._
+</details>
 
 - CSS:
+<details>
 > _CSS (Cascading Style Sheets) é uma linguagem de estilo que complementa o HTML. Ela permite a estilização e o design das páginas web, controlando a apresentação visual dos elementos. Com o CSS, os desenvolvedores podem personalizar cores, fontes, layouts e outros aspectos visuais.
 Essa linguagem desempenhou um papel crucial no desenvolvimento frontend, possibilitando a criação de páginas atraentes e responsivas. Também proporcionou uma organização eficiente do código e facilita a manutenção e atualização do design._
-
+</details>
 - MySQL:
-
+<details>
 > _MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é amplamente utilizado para armazenar e recuperar dados em aplicativos, oferecendo desempenho confiável e suporte para consultas complexas._
 > _Escolha comum e segura, devido à utilização anterior por parte da equipe, para armazenar dados de maneira estruturada. É uma solução eficaz para organizar grandes conjuntos de informações, sendo especialmente valioso em aplicações web._
-
+</details>
 ### :white_check_mark: Contribuições Pessoais
 Pela primeira vez, desenvolvi uma aplicação complexa como essa. Atuei apenas como backend. Foi um desafio usar programação e abstrair ideias do mundo real para o código. Já havia tido contado anterior com C++ e C#, isso me ajudou a ter menos dificuldade na volta. Pude programar boa parte do backend e ajudar parte do time que teve seu primeiro contato.
 
