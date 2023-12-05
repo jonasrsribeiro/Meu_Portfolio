@@ -168,7 +168,7 @@ Pela primeira vez, desenvolvi uma aplicação fullstack. Nesse projeto, busquei 
 
 ## :bookmark_tabs: Impactech - Internet Banking
 <p align="center">
-      <img src="logo Impactech.png" alt="logo impactech" width="150">
+      <img src="logo Impactech.jpeg" alt="logo impactech" width="150">
 <hr>
 
 - 2022.2
@@ -185,7 +185,7 @@ Nossa parceira, a Instuição Fatec, nos proporciou como objetivo a criação de
 
 > _Propomos o desenvolvimento de um Sistema de Internet Banking personalizado, com foco na simplificação e acessibilidade. Essa solução permitirá uma transição suave para operações bancárias digitais, melhorando a organização, a segurança e a colaboração entre as diferentes transações. O software possibilitará o cadastro de usuários com perfis distintos, atribuindo responsabilidades específicas para funcionalidades como transferências, pagamentos, consultas e atualizações de dados._
 
-![./gifImpactech.gif](./gifImpactech.gif)
+![./gitImpactech.gif](./gitImpactech.gif)
 
 ## :bookmark_tabs: Tecnologias Utilizadas
 
