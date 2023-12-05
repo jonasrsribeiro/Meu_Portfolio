@@ -168,7 +168,7 @@ Pela primeira vez, desenvolvi uma aplicação fullstack. Nesse projeto, busquei 
 
 ## :bookmark_tabs: Impactech - Internet Banking
 <p align="center">
-      <img src="logo Impactech.jpeg" alt="logo impactech" width="150">
+      <img src="logo Impactech.jpg" alt="logo impactech" width="150">
 <hr>
 
 - 2022.2
